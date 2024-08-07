@@ -1,3 +1,4 @@
+
 //check prime or not
 
 import java.util.Scanner;

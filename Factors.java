@@ -1,3 +1,4 @@
+
 //Trick  Whenever we find factors of a number we should iterate only for number which are less than number/2 since all the factors exist in that range
 
 
