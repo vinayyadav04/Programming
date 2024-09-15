@@ -6,6 +6,7 @@ public class GCDHCF {
         Scanner scn=new Scanner(System.in);
         int num1=scn.nextInt();
         int num2=scn.nextInt();
+        scn.close();
 
         int largest=num1>num2?num1:num2;
 
